@@ -1,0 +1,19 @@
+@font-face{
+
+    font-family: 'absender';
+    src:url(fonts/absender1.ttf);
+
+}
+
+h1{
+                font-family: "absender";
+                
+
+}
+
+p{
+    font-family:'Lucida Sans';
+    
+
+}
+
